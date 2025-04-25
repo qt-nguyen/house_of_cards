@@ -1,0 +1,5 @@
+dump/*
+html/*
+data/*
+cleaned/*
+src/__pycache__
